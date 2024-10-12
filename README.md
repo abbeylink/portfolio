@@ -1,13 +1,13 @@
 # Software Developer | Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Java, PHP, React, Spring boot, Laravel, Javascript, MySQL, PostgreSQL, AWS
 
 ## Education						       		
-- M.S., Software Engineering	| University of Bolton, UK  (_September 2024_)	 			        		
-- B.S., Computer Science | Bayero University Kano, Nigeria (_January 2017_)
+- M.S., Software Engineering|University of Bolton, UK (_September 2024_)	 			        		
+- B.S., Computer Science|Bayero University Kano, Nigeria(_January 2017_)
 
 ## Work Experience
-**Software Developer @ BAM Avalon Ltd  (_January 2020 - September 2023_)**
+**Software Developer @ BAM Avalon Ltd (_January 2020 - September 2023_)**
 - Designed and implemented the Verification System Solution for the Organisation, improving efficiency by 25%.
 - Developed an Advanced Data Direct Capture Solution that streamlined data entry processes and increased accuracy by 15%.
 - Ensured high-quality code through rigorous testing and adherence to coding best practices.
