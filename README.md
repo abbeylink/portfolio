@@ -3,8 +3,8 @@
 #### Technical Skills: Java, PHP, React, Spring boot, Laravel, Javascript, MySQL, PostgreSQL, AWS
 
 ## Education						       		
-- M.Sc., Software Engineering|University of Bolton, UK (_September 2024_)	 			        		
-- B.Sc., Computer Science|Bayero University Kano, Nigeria (_January 2017_)
+- M.Sc.,Software Engineering | University of Bolton, UK (_September 2024_)	 			        		
+- B.Sc.,Computer Science | Bayero University Kano, Nigeria (_January 2017_)
 
 ## Work Experience
 **Software Developer @ BAM Avalon Ltd (_January 2020 - September 2023_)**
